@@ -8,13 +8,10 @@
 
 ---
 
-## 🎬 热门视频 | Trending Content
-在我们的 YouTube 频道上，我们深度拆解币圈幕后真相：
-
-* 📽️ **[24H爆仓2亿！机构设下“索命局”](http://www.youtube.com/watch?v=K8jaq5jF8B4)** - 揭秘孙宇晨砸 $3300 万背后的真相。
-* 📽️ **[230亿“大炸弹”引爆倒计时！](http://www.youtube.com/watch?v=WOv6JkMvmuI)** - 拆解比特币期权到期背后的主力套现逻辑。
-* 📽️ **[白银闪崩10%是比特币的机会吗？](http://www.youtube.com/watch?v=rmTFwgYsrXQ)** - 探讨传统金融与加密市场的联动效应。
-
+## 🎬 最新视频动态 | Latest YouTube
+这里自动同步我的 YouTube 频道最新内容（每 6 小时自动更新）：
+<!-- YOUTUBE-FEED:START -->
+<!-- YOUTUBE-FEED:END -->
 ---
 
 ## 🛠 关于我们 | About Us
