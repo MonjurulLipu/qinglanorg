@@ -31,9 +31,8 @@
 ---
 
 ## 📊 开发者动态 | Github Stats
-![Qinglan's GitHub stats](https://github-readme-stats.vercel.app/api?username=qinglanorg&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qinglanorg&layout=compact&theme=radical)
+![Qinglan's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=qinglanorg&show_icons=true&theme=radical)
 
 ---
 
-> **SEO Keywords**: 比特币分析工具, AI加密货币行情, 青岚加密课堂, Web3智能决策, 自动化交易分析, Bitcoin Option Analysis, Crypto AI Tools.
+> **Keywords**: 比特币分析工具, AI加密货币行情, 青岚加密课堂, Web3智能决策, 自动化交易分析, Bitcoin Option Analysis, Crypto AI Tools.
