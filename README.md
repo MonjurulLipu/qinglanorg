@@ -11,6 +11,11 @@
 ## 🎬 最新视频动态 | Latest YouTube
 这里自动同步我的 YouTube 频道最新内容（每 6 小时自动更新）：
 <!-- YOUTUBE-FEED:START -->
+- [BTC九万久攻不下？小心这“四只鬼”吃掉你的本金！](https://www.youtube.com/watch?v=b6O_ViGuZm4)
+- [10万美金倒计时！亏掉1 8亿的巨鲸血泪告诫：2026年千万别做这件事！](https://www.youtube.com/watch?v=mfyRUlD8ePg)
+- [24H爆仓2亿！机构设下“索命局”，孙宇晨砸$3300万疯抢LIT是翻倍还是陷阱？](https://www.youtube.com/watch?v=K8jaq5jF8B4)
+- [答应我！别再对着 DeepSeek 盲目问行情了！](https://www.youtube.com/watch?v=A-PYEe09h1A)
+- [【终极预警】币圈关灯！3个索命鬼故事，白银闪崩10%是比特币的机会吗？](https://www.youtube.com/watch?v=rmTFwgYsrXQ)
 <!-- YOUTUBE-FEED:END -->
 ---
 
