@@ -32,6 +32,7 @@
 
 ## 📊 开发者动态 | Github Stats
 ![Qinglan's GitHub stats](https://github-readme-stats.vercel.app/api?username=qinglanorg&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qinglanorg&layout=compact&theme=radical)
 
 ---
 
